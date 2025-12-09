@@ -14,5 +14,5 @@ A chaotic AI chatbot that acts like a glitchy NPC stuck in a simulation.
 
    ```bash
    pip install -r requirements.txt
-   streamlit run app.py
+   streamlit run main.py
    ```
